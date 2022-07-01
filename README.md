@@ -1,5 +1,5 @@
-I am intesing 🧐
 
-I am funny 🥳
 
-I am curious 😎
+# Who I am ?
+
+a passionate coder in computer science, my favorite languages are Python and Rust 
